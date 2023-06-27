@@ -10,5 +10,7 @@ public class Main {
         System.out.println("Type your age: ");
         System.out.println(" your age: " + sc.nextInt());
         sc.close();
+
+        System.out.println("hello Ranjan");
     }
 }
