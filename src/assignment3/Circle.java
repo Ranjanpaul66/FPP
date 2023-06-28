@@ -1,6 +1,6 @@
 package assignment3;
 
-public class Circle {
+final public class Circle {
 
     final private double PI = Math.PI;
     final private double radius ;

@@ -1,6 +1,6 @@
 package assignment3;
 
-public class Rectangle {
+final public class Rectangle {
 
     final private double width;
     final private double height;

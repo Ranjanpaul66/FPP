@@ -1,6 +1,6 @@
 package assignment3;
 
-public class Triangle {
+final public class Triangle {
 
     final private double width;
     final private double height;
