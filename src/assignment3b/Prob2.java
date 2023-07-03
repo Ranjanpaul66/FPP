@@ -1,4 +1,4 @@
-package assignment4;
+package assignment3b;
 
 public class Prob2 {
 

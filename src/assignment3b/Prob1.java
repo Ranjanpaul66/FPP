@@ -1,4 +1,4 @@
-package assignment4;
+package assignment3b;
 
 public class Prob1 {
     private static Prob1 instance=null;

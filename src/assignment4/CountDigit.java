@@ -1,4 +1,4 @@
-package assignment5;
+package assignment4;
 
 public class CountDigit {
     public static void main(String[] args) {
